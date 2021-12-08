@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Vimuth, Welcome to my GitHub profile
 
 <!--
 **vimuth97/vimuth97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vimuth97&theme=onedark&title=Commit,MultiLanguage,Repositories,PullRequest)](https://github.com/vimuth97/github-profile-trophy)
