@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Vimuth, Welcome to my GitHub profile!
-<br />
+<!-- <br />
 <div>
   <div width="20%">
     <h2>🏆 My Trophies</h2>
@@ -10,4 +10,4 @@
   <div>
     <img height="203" align="left" src="https://github-readme-stats.vercel.app/api?username=vimuth97&count_private=true&include_all_commits=true" />
   </div>
-</div>
+</div> -->
